@@ -12,10 +12,10 @@ Web-technologies: HTML, CSS;
 
 
 <a href="https://github.com/TheUnknownSoul/TheUnknownSoul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-roy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnknownSoul&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=9" />
 </a>
 <a href="https://github.com/TheUnknownSoul/TheUnknownSoul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey-roy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andrey`s GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheUnknownSoul&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
 
 
