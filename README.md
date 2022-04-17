@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**TheUnknownSoul/TheUnknownSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Programming languages: Java, JavaScript, TypeScript, C++;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks: Spring Core, Spring Boot, Spring Security, Spring Data;
+
+Databases: h2, MySQL, SQLite, PostgreSQL;
+
+Messages broker: RabbtMQ, ActiveMQ, Apache Kafka;
+
+Web-technologies: HTML, CSS;
+
+
+<a href="https://github.com/andrey-roy/andrey-roy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-roy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=9" />
+</a>
+<a href="https://github.com/andrey-roy/andrey-roy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey-roy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andrey`s GitHub Stats" />
+</a>
+
+
+
+* [TryHackMe](https://tryhackme.com/p/Unknown.Soul).
