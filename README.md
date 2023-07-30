@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+my+Github+profile.;I%60m+ukrainian.;Developer+and+security+specialist.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=300&size=18&duration=7000&pause=1000&color=F71010&background=FFFAF500&multiline=true&width=450&height=100&lines=Hi.;I'm+software+engineer+and+ethical+hacker.;An+ukrainian+who+resists+russian+aggression.)](https://git.io/typing-svg)
 
 
 
