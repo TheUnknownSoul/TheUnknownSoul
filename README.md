@@ -66,3 +66,4 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Unknown.Soul.png" alt="TryHackMe">
 
+[![Andrey Roy profile views](https://u8views.com/api/v1/github/profiles/58050201/views/day-week-month-total-count.svg)](https://u8views.com/github/TheUnknownSoul)
