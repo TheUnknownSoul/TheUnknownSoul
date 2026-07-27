@@ -49,7 +49,6 @@
 ## Stats
 
 <img src="https://raw.githubusercontent.com/TheUnknownSoul/TheUnknownSoul/master/assets/metrics.svg" alt="Metrics" />
-<img src="https://raw.githubusercontent.com/TheUnknownSoul/TheUnknownSoul/master/assets/metrics.activity.svg" alt="Activity" width="49%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
