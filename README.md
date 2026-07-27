@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=300&size=18&duration=7000&pause=1000&color=F71010&background=FFFAF500&multiline=true&width=540&height=100&lines=Hi.;I am an application+security+engineer+%2F+DevSecOps.;I+write+code+and+then+I+break+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=300&size=18&duration=7000&pause=1000&color=F71010&background=FFFAF500&multiline=true&width=540&height=100&lines=Hi.;I+am+an application+security+engineer+%2F+DevSecOps.;I+write+code+and+then+I+break+it." alt="Typing SVG" />
 </a>
 
 ### What I do
