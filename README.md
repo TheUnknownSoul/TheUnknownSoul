@@ -1,75 +1,62 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=300&size=18&duration=7000&pause=1000&color=F71010&background=FFFAF500&multiline=true&width=450&height=100&lines=Hi.;I'm+software+engineer+and+ethical+hacker.;)](https://git.io/typing-svg)
-
-
-
-<a href="https://github.com/TheUnknownSoul/TheUnknownSoul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnknownSoul&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=300&size=18&duration=7000&pause=1000&color=F71010&background=FFFAF500&multiline=true&width=520&height=100&lines=Hi.;Application+security+engineer+%2F+DevSecOps.;I+write+code+and+then+I+break+it." alt="Typing SVG" />
 </a>
+
+### What I do
+
+- **Application Security** — пентест веб-приложений и API, threat modeling, security review кода
+- **DevSecOps** — SAST/DAST/SCA в CI/CD, vulnerability management, security gates
+- **Development** — Java/Spring, React/TypeScript
+
+> Большинство пентестеров не пишут продакшн-код. Большинство разработчиков не думают
+> как атакующий. Я делаю и то, и другое — поэтому в отчёте лежат патчи, а не список CVE.
+
+---
+
+## Security
+
 <p>
-  
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-1B1B1B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semgrep-1B2B34?style=for-the-badge&logo=semgrep&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/DefectDojo-DF3E30?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheUnknownSoul">
-
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TheUnknownSoul">
+<p>
+  <img src="https://img.shields.io/badge/eWPT-Certified-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SANS_SEC542-Completed-C8102E?style=for-the-badge" />
 </p>
 
+## Engineering
 
-# Programming languages, technologies and tools
-## Programming languages and frameworks
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,python,cpp,bash,docker,kubernetes,postgres,mysql,linux,git,gitlab,nginx&perline=8" />
 
+---
 
-<i class="devicon-devicon-plain">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70"/>
+## Stats
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" />
+<img src="./assets/metrics.svg" alt="Metrics" />
+<img src="./assets/metrics.activity.svg" alt="Activity" width="49%" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70" />
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70" />
-          
-</i>  
- 
- 
-## Deployment
-<i class="devicon-devicon-plain">  
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/TheUnknownSoul/TheUnknownSoul/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/TheUnknownSoul/TheUnknownSoul/output/snake-light.svg" />
+  <img alt="Contribution snake"
+       src="https://raw.githubusercontent.com/TheUnknownSoul/TheUnknownSoul/output/snake-dark.svg" />
+</picture>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="70" height="70" />
-</i> 
- 
- 
- ## Web technologies
- 
-<i class="devicon-devicon-plain">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="70" height="70" />
-</i> 
- 
-## Databases
+---
 
-<i class="devicon-devicon-plain">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="70" height="70" />
-  
-</i>
+## Labs
 
-## Version control system
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Unknown.Soul.png" alt="TryHackMe" />
+</p>
 
-
-<i class="devicon-devicon-plain">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="70" height="70" />
-</i>            
-          
-# Other
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Unknown.Soul.png" alt="TryHackMe">
-
-[![Andrey Roy profile views](https://u8views.com/api/v1/github/profiles/58050201/views/day-week-month-total-count.svg)](https://u8views.com/github/TheUnknownSoul)
+<p>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheUnknownSoul?style=flat-square&color=F71010" />
+</p>
